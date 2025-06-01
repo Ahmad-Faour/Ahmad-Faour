@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmad Faour</h1>
 <h3 align="center">Telecom Engineering Graduate | Aspiring Software Developer | Focused on Unreal Engine</h3>
 
-- 🌱 I’m currently learning **Web, Video editing, Design, Programing**
+- 🌱 I’m currently learning **Web, UI/UX, Video editing, **
 
 - 💬 Ask me about **Unreal Engine**
 
